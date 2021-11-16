@@ -5,18 +5,18 @@ OptiView is an incredibly simple viewport optimisation addon which uses multiple
 
 # Usage
 
-To activate this addon, download the Source-Code.zip under releases, then once downloaded extract the optview.zip and install the optview.py under preferences, (for more information on installing addons see: https://docs.blender.org/manual/en/latest/editors/preferences/addons.html#installing-add-ons)
+To activate this addon, download the Source-Code.zip under releases, then once downloaded extract the optiview.zip and install the optiview.py under preferences, (for more information on installing addons see: https://docs.blender.org/manual/en/latest/editors/preferences/addons.html#installing-add-ons)
 
 Once installed, you will have access to 2 new 'OptiView' panels, one located in the **Render Properties tab** and the other located in the **Shader Editor.**
 After you have created your material for your object, go to the 'OptiView' panel in the **Shader Editor** and click the **Add Outputs** button, which will create 2 new Material Output nodes, one named RENDER for your higher quality textures/materials and the other named VIEWPORT for your more optimised materials for a better viewport experience as seen in the screenshot below:
 
 ![Demo](https://github.com/asptu/optiview/blob/main/examples/2.PNG)
 
-Once you have your 2 Material Outputs created you can attach your more complex materials into the RENDER output and the more optimised versions into the VIEWPORT output. When you're ready for rendering you'll want to navigate to the **Render Properties tab** and scroll down until you see the 'OptiView' category, within said category you'll see 2 different buttons, which if you're about to render an image you'll want to click **Render Texture** which will automatically switch your view to solid mode and switch to your full quality render texture. After finishing rendering you'll want to make sure you click on the **Viewport Texture** button to switch back to your optimised textures as the addon will not do it automatically. (see functionality plan)
+Once you have your 2 Material Outputs created you can attach your more complex materials into the RENDER output and the more optimised versions into the VIEWPORT output. When you're ready for rendering you'll want to navigate to the **Render Properties tab** and scroll down until you see the 'OptiView' category, within said category you'll see 2 different buttons. If you're about to render an image you'll want to click **Render Texture** which will automatically switch your view to solid mode and switch to your full quality render material. After finishing rendering you'll want to make sure you click on the **Viewport Texture** button to switch back to your optimised textures as the addon will not do it automatically. (see functionality plan)
 
 ![Demo2](https://github.com/asptu/optiview/blob/main/examples/1.PNG)
 
-Other than that, the addon pretty much has no other functionality for now, please contact Asptu#7386 on discord if you run into any problems and happy blending!
+Other than that, the addon pretty much has no other functionality for now, please contact Asptu#7386 on discord if you run into any problems or you have any suggestions for features and happy blending!
 
 # Functionality Plan
 
