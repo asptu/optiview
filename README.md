@@ -1,2 +1,2 @@
 # optiview
-optimises the viewport or something 
+OptiView is a simple viewport optimisation addon
