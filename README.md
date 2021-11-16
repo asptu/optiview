@@ -1,7 +1,7 @@
 # optiview
 OptiView is an incredibly simple viewport optimisation addon which uses multiple Material Outputs to swap between a Material with less detail in the Viewport and a full resolution Material in your render.
 
-**optiview is currently in very early development, has very limited functionality and also is pretty bad code, scroll down to see functionality road map.**
+**optiview is currently in very early development, has very limited functionality and also is pretty bad code, contact Asptu#7386 if you run into any problems**
 
 # Usage
 
