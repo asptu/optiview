@@ -1,7 +1,7 @@
 
 bl_info = {
 	"name": "OptiView",
-	"author": "Asptu#7386",
+	"author": "Asptu#0003",
 	"version": (0, 1, 0),
 	"blender": (2, 80, 0),
 	"description": "Provides the ability to swap high resolution materials between the viewport and the final render, https://github.com/asptu/optiview#optiview",
